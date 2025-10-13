@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|c:\\users\\student\\desktop\\anna12b\\vaporstore\\vaporstore\\data\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|solutionrelative:vaporstore\\data\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|c:\\users\\student\\desktop\\anna12b\\vaporstore\\vaporstore\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|solutionrelative:vaporstore\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|c:\\users\\student\\desktop\\anna12b\\vaporstore\\vaporstore\\data\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|solutionrelative:vaporstore\\data\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|c:\\users\\student\\desktop\\anna12b\\vaporstore\\vaporstore\\data\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|solutionrelative:vaporstore\\data\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|c:\\users\\student\\desktop\\anna12b\\vaporstore\\vaporstore\\data\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|solutionrelative:vaporstore\\data\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|c:\\users\\student\\desktop\\anna12b\\vaporstore\\vaporstore\\data\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|solutionrelative:vaporstore\\data\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|c:\\users\\student\\desktop\\anna12b\\vaporstore\\vaporstore\\data\\models\\gametag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|solutionrelative:vaporstore\\data\\models\\gametag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|c:\\users\\student\\desktop\\anna12b\\vaporstore\\vaporstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021DB0B1-09DE-42B6-9693-88ACDFC4E5AE}|VaporStore\\VaporStore.csproj|solutionrelative:vaporstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "VaporStore\\Data\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\Card.cs",
+              "RelativeToolTip": "VaporStore\\Data\\Models\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:28:24.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "VaporStore\\Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\User.cs",
+              "RelativeToolTip": "VaporStore\\Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:20:53.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "VaporStore\\Data\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\Tag.cs",
+              "RelativeToolTip": "VaporStore\\Data\\Models\\Tag.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:13:12.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameTag.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\GameTag.cs",
+              "RelativeDocumentMoniker": "VaporStore\\Data\\Models\\GameTag.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\GameTag.cs",
+              "RelativeToolTip": "VaporStore\\Data\\Models\\GameTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:12:54.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "VaporStore\\Data\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\Genre.cs",
+              "RelativeToolTip": "VaporStore\\Data\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:06:56.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\Developer.cs",
+              "RelativeDocumentMoniker": "VaporStore\\Data\\Models\\Developer.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\Developer.cs",
+              "RelativeToolTip": "VaporStore\\Data\\Models\\Developer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:35:26.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "VaporStore\\Data\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Data\\Models\\Game.cs",
+              "RelativeToolTip": "VaporStore\\Data\\Models\\Game.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:26:27.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Program.cs",
+              "RelativeDocumentMoniker": "VaporStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Anna12b\\VaporStore\\VaporStore\\Program.cs",
+              "RelativeToolTip": "VaporStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:18:18.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
